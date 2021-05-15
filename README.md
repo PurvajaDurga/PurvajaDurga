@@ -15,7 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Automobile-Price-Prediction-using-Regression-models-using-Machine-Learning
 | Project Title          |Languages/Technologies|Description          |Links🔗    |
 | -----------|:-------------------:|  :---------------------------:|:---------------:| 
 | Mr.Cool Virtual Assistant        |  Python   |Assistant helps to perform tasks such as Search, Play videos, Alarm, Sending messages, Remainders, Weather condition, and News updates etc. | [Link](https://github.com/PurvajaDurga/AI-Virtual-Assistant-using-Python)|          |
